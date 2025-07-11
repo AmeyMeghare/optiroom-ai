@@ -1,5 +1,5 @@
-# optiroom-ai
-#OptiRoom AI is an advanced  tool that transforms simple room images into realistic interior design visualization.
+#optiroom-ai
+OptiRoom AI is an advanced  tool that transforms simple room images into realistic interior design visualization.
 It employs deep learning and computer vision techniques to analyze room layouts and generate customized design options.
 Users can upload a room image and specify design preferences, such as furniture style and room type, to receive personalized recommendations.
 The system optimizes room layouts to maximize space efficiency while ensuring a balanced aesthetic appeal.
